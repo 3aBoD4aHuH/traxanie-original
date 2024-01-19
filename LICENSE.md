@@ -1,4 +1,4 @@
-Copyright (c) 2023 [Wiktor Pozzo](mailto:me@yand1.ru)
+Copyright (c) 2024 [Wiktor Pozzo](mailto:me@yand1.ru)
 
 This Font is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
